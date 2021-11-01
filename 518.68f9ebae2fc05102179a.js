@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkrpn_angular=self.webpackChunkrpn_angular||[]).push([[518],{9518:(r,o,e)=>{e.r(o),e.d(o,{ModelosMasterPageModule:()=>s});var n=e(8583),l=e(639);let s=(()=>{class a{}return a.\u0275fac=function(u){return new(u||a)},a.\u0275mod=l.oAB({type:a}),a.\u0275inj=l.cJS({imports:[[n.ez]]}),a})()}}]);
